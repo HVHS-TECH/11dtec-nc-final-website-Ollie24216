@@ -1,5 +1,5 @@
 body {
-  background-color: blue;
+  background-color: darkblue;
 }
 ul {
 list-style-type: none;
@@ -24,5 +24,5 @@ text-decoration: none;
 li a:hover {
 background-color: #111;
 }
-header {background-color: green;border-radius: 15px;}
-main {background-color: purple; border-radius: 20px;}
+header {background-color: grey;border-radius: 5px;}
+main {background-color: black; border-radius: 5px;}
