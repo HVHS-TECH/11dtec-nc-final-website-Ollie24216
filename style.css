@@ -12,11 +12,11 @@ ul {
   overflow: hidden;
   background-color: #1f2a38;
 }
-BOX LOCATION
+
 li {
   float: left;
 }
-THICKNESS OF THE WRITING BOXES 
+
 li a {
   display: block;
   color: white;
@@ -25,12 +25,12 @@ li a {
   text-decoration: none;
   transition: 0.3s;
 }
-COLOR OF THE WRITING BOXES WHEN mouse is over
+
 li a:hover {
   background-color: #4ca1af;
 }
 
-HEADER SETTINGS
+
 header {
   background: linear-gradient(to right, #4ca1af, #2c3e50);
   color: white;
@@ -40,19 +40,19 @@ header {
   text-align: center;
   box-shadow: 0 4px 10px rgba(0,0,0,0.3);
 }
-HEADER
+
 header h1 {
   font-size: 40px;
   font-weight: bold;
   letter-spacing: 2px;
 }
-SUBTITLES
+
 .subtitle {
   font-size: 16px;
   font-weight: 600;
 }
 
-MAIN SIZE AND COLORS
+
 main {
   background-color: white;
   margin: 20px;
@@ -61,7 +61,6 @@ main {
   box-shadow: 0 4px 10px rgba(0,0,0,0.3);
 }
 
-TEXT COLOR
 h1, h2 {
   color: #2c3e50;
 }
@@ -69,14 +68,14 @@ h1, h2 {
 p {
   line-height: 1.6;
 }
-BG COLORS
+
 .facts ul {
   background-color: transparent;
   list-style-type: disc;
   padding-left: 20px;
 }
 
-IMAGE PLACEMENTS 
+
 .image-container {
   text-align: center;
 }
@@ -86,7 +85,7 @@ IMAGE PLACEMENTS
   border-radius: 10px;
   transition: 0.3s;
 }
-IMAGE SETTINGS TO IMCREASE SIZE WHEN MOUSE IS OVER
+
 .image-container img:hover {
   transform: scale(1.05);
 }
