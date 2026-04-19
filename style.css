@@ -70,7 +70,6 @@ p {
   line-height: 1.6;
 }
 
-/* FACTS FIX (THIS removes the black line issue) */
 .facts ul {
   background-color: transparent;
   list-style-type: disc;
