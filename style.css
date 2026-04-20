@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 
-NAV BAR
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -90,7 +90,7 @@ p {
   transform: scale(1.05);
 }
 
-FOOTER SETTINGS
+
 footer {
   text-align: center;
   color: white;
